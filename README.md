@@ -11,4 +11,4 @@ These projects highlight my expertise in Python and demonstrate a wide range of 
 - Uplift Modeling
 - A/B Testing
 
-Each project showcases my ability to apply advanced methodologies to solve real-world business challenges and derive actionable insights.
+Each of these projects can be viewed individually to explore the full process of implementing the specific techniques and methodologies. These concepts can also be integrated into a central project to address real-world business challenges and generate actionable insights. I have applied these techniques in the Electronic Retailer Project, which simulates solving a real business problem. The project, along with the detailed implementations, is available on my GitHub portfolio.
